@@ -1,0 +1,38 @@
+2020-08-19T21:27:58+00:00 CRITICAL syntax error, unexpected ']' in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php on line 53
+
+2020-08-19T21:28:07+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php on line 68
+
+2020-08-19T21:32:09+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php on line 45
+
+2020-08-19T21:32:10+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php on line 45
+
+2020-08-19T21:33:57+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php on line 43
+
+2020-08-19T21:41:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_thumbnail_url() in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php:48
+Stack trace:
+#0 C:\xampp\htdocs\book_store\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\book_store\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\book_store\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php on line 48
+
+2020-08-19T21:41:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_post_thumbnail_url() in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php:48
+Stack trace:
+#0 C:\xampp\htdocs\book_store\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\book_store\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\book_store\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php on line 48
+
+2020-08-19T21:44:54+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php:51
+Stack trace:
+#0 C:\xampp\htdocs\book_store\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\book_store\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\book_store\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php on line 51
+
+2020-08-19T22:13:14+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php on line 101
+
+2020-08-19T22:13:49+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\book_store\wp-content\themes\shoptimizer\front-page.php on line 102
+

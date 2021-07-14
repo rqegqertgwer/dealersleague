@@ -1,0 +1,306 @@
+
+---Downloaded files---
+The import files for: Shoptimizer Demo Data were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/book_store
+Data file = C:\xampp\htdocs\book_store/wp-content/uploads/2020/08/demo-content-import-file_2020-08-19__19-24-50.xml
+Widget file = C:\xampp\htdocs\book_store/wp-content/uploads/2020/08/demo-widgets-import-file_2020-08-19__19-24-50.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag denim
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import pa_color Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import pa_color Orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pattern
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_cat Shirts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag skinny
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sportswear
+[WARNING] Failed to import product_tag stripes
+[WARNING] Failed to import product_tag summer
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Cardigans &amp; Jumpers
+[WARNING] Failed to import product_cat Coats &amp; Jackets
+[WARNING] Failed to import product_cat Dresses
+[WARNING] Failed to import product_cat Hoodies &amp; Sweatshirts
+[WARNING] Failed to import product_cat Jackets &amp; Coats
+[WARNING] Failed to import product_cat Shorts
+[WARNING] Failed to import product_cat Tops
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag denim
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import pa_color Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import pa_color Orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pattern
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_cat Shirts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag skinny
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sportswear
+[WARNING] Failed to import product_tag stripes
+[WARNING] Failed to import product_tag summer
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Cardigans &amp; Jumpers
+[WARNING] Failed to import product_cat Coats &amp; Jackets
+[WARNING] Failed to import product_cat Dresses
+[WARNING] Failed to import product_cat Hoodies &amp; Sweatshirts
+[WARNING] Failed to import product_cat Jackets &amp; Coats
+[WARNING] Failed to import product_cat Shorts
+[WARNING] Failed to import product_cat Tops
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag denim
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import pa_color Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import pa_color Orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pattern
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_cat Shirts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag skinny
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sportswear
+[WARNING] Failed to import product_tag stripes
+[WARNING] Failed to import product_tag summer
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Cardigans &amp; Jumpers
+[WARNING] Failed to import product_cat Coats &amp; Jackets
+[WARNING] Failed to import product_cat Dresses
+[WARNING] Failed to import product_cat Hoodies &amp; Sweatshirts
+[WARNING] Failed to import product_cat Jackets &amp; Coats
+[WARNING] Failed to import product_cat Shorts
+[WARNING] Failed to import product_cat Tops
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag denim
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import pa_color Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import pa_color Orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pattern
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_cat Shirts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag skinny
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sportswear
+[WARNING] Failed to import product_tag stripes
+[WARNING] Failed to import product_tag summer
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Cardigans &amp; Jumpers
+[WARNING] Failed to import product_cat Coats &amp; Jackets
+[WARNING] Failed to import product_cat Dresses
+[WARNING] Failed to import product_cat Hoodies &amp; Sweatshirts
+[WARNING] Failed to import product_cat Jackets &amp; Coats
+[WARNING] Failed to import product_cat Shorts
+[WARNING] Failed to import product_cat Tops
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_tag denim
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import pa_color Grey
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Men
+[WARNING] Failed to import pa_color Orange
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pattern
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_cat Shirts
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag skinny
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sportswear
+[WARNING] Failed to import product_tag stripes
+[WARNING] Failed to import product_tag summer
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Women
+[WARNING] Failed to import product_cat Cardigans &amp; Jumpers
+[WARNING] Failed to import product_cat Coats &amp; Jackets
+[WARNING] Failed to import product_cat Dresses
+[WARNING] Failed to import product_cat Hoodies &amp; Sweatshirts
+[WARNING] Failed to import product_cat Jackets &amp; Coats
+[WARNING] Failed to import product_cat Shorts
+[WARNING] Failed to import product_cat Tops
+
+
+---Importing widgets---
+Sidebar : 
+
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+woocommerce_product_tag_cloud - Tags - Site does not support widget
+
+Sidebar Posts : 
+
+Text - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Sidebar Pages : 
+
+Recent Posts - No Title - Imported
+Meta - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Below Header : 
+
+Text - No Title - Imported
+
+Top Bar Left : 
+
+Text - No Title - Imported
+
+Top Bar Center : 
+
+Text - No Title - Imported
+
+Top Bar Right : 
+
+Custom HTML - No Title - Imported
+
+Single Product Custom Area : 
+
+Text - No Title - Imported
+
+Floating Button Modal Content : 
+
+Text - No Title - Imported
+
+Cart Custom Area : 
+
+Text - No Title - Imported
+
+Checkout Custom Area : 
+
+Text - No Title - Imported
+
+Below Content : 
+
+Custom HTML - Free Worldwide shipping - Imported
+Custom HTML - Easy 30 days returns - Imported
+Custom HTML - International Warranty - Imported
+Custom HTML - 100% Secure Checkout - Imported
+
+Footer : 
+
+Text - About - Imported
+Text - Help - Imported
+Text - Follow - Imported
+Text - Sign Up - Imported
+
+Copyright : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+
+Mobile Extra : 
+
+Text - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+Shoptimizer demo content imported!

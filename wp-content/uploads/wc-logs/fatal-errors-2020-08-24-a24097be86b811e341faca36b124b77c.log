@@ -1,0 +1,24 @@
+2020-08-24T06:13:47+00:00 CRITICAL Uncaught Error: Call to undefined function print_f() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:242
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 242
+
+2020-08-24T06:13:48+00:00 CRITICAL Uncaught Error: Call to undefined function print_f() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:242
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 242
+
+2020-08-24T07:11:13+00:00 CRITICAL Uncaught Error: Call to undefined function get_therm() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php:14
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php on line 14
+

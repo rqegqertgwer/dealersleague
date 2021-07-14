@@ -1,0 +1,270 @@
+/*
+Theme Name: Shoptimizer Child Theme
+Theme URI: 
+Description: Child theme of Shoptimizer
+Author: CommerceGurus
+Author URI: 
+Template: shoptimizer
+Version: 1.2.0
+*/
+
+/* custom css */
+
+.section-title {
+	padding-left: 15px;
+	margin-bottom: 0px;
+}
+
+.home-product-list-section .home-product-item {
+	display: inline-block;
+	max-width: 200px;
+	padding: 15px;
+	background-color: #fff;
+	-webkit-overflow-scrolling: touch;
+}
+
+.home-product-list-section .home-product-item a {
+	color: #000;
+}
+
+.home-product-list-section .home-product-item .product-name {
+	font-size: 16px;
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+.home-product-list-section {
+	overflow-x: scroll;
+	white-space: nowrap;
+	-webkit-overflow-scrolling: touch;
+	margin-bottom: 50px;
+}
+
+.home-section-title-block {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.view-all-btn {
+	float: right;
+	background-color: #000;
+	color: #fff;
+	text-transform: capitalize;
+	font-size: 14px;
+	padding: 5px 20px;
+	margin: 0px;
+	font-weight: 600;
+}
+
+.view-all-btn:hover {
+	color: #000;
+	border: 1px solid #000;
+	background-color: transparent;
+}
+
+/* width */
+.home-product-list-section::-webkit-scrollbar {
+	height: 5px;
+	
+	
+}
+
+
+  
+  /* Track */
+.home-product-list-section::-webkit-scrollbar-track {
+	background: #f1f1f1;
+	border-radius: 15px;
+}
+  
+  /* Handle */
+.home-product-list-section::-webkit-scrollbar-thumb {
+	background: #ccc;
+	border-radius: 20px;
+}
+  
+  /* Handle on hover */
+.home-product-list-section::-webkit-scrollbar-thumb:hover {
+	background: #eee;
+
+}
+
+.header-widget-region {
+	display: none;
+}
+
+.site-search .widget.woocommerce.widget_product_search {
+	float: right;
+}
+
+.main-header .secondary-navigation {
+	display: none;
+}
+
+.site-header-cart.menu {
+	margin-left: 5px !important;
+}
+
+.site-header-cart.menu .cart-contents {
+	border: none !important;
+}
+
+.site-header-cart.menu .cart-contents .amount {
+	color: #dc9814;
+}
+
+.menu-toggle .bar-text {
+	display: none;
+}
+
+.home-tab-product-item {
+	max-width: 200px;
+	float: left;
+	padding: 15px;
+}
+
+.home-tab-product-item .product-name {
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+figure.woocommerce-product-gallery__wrapper {
+	position: relative;
+}
+
+.attr-badge {
+	position: absolute;
+    left: 15px;
+    top: 15px;
+    border-radius: 12px;
+    background-color: #dc9814;
+    color: #fff;
+    padding: 3px 25px;
+    z-index: 3;
+}
+
+/*home-product-list-section-all-pages*/
+.home-product-list-section-all-pages{
+	overflow-x: inherit;
+    white-space: inherit;
+}
+/*share buttons*/
+.col-lg-6{
+	margin: 5px;
+}
+
+.term_pa_colors{
+	margin-bottom: 30px;
+	max-width: 400px;
+	background: #cccccc;
+	border-radius: 9px;
+}
+.term_pa_colors ul{
+	margin: 0px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.pa_colors{
+	display: inline-block;
+    /* margin: 5px; */
+    
+}
+
+.pa_colors a{
+	color: #fff;
+}
+
+.type-product{
+	width: 100%;
+	text-align: center;
+	margin-right: 0;
+	padding: 7px;
+}
+
+.clearfix{
+	clear: both;
+}
+
+.caret{
+	display: none;
+}
+
+/*category images*/
+.category_img, .author_img{
+	width: 250px;
+	height: 170px;
+	border-radius: 100px;
+}
+
+/*arrows*/
+.arrow_left{
+	position: absolute;
+    top: 9%;
+    margin-left: 20px;
+    cursor: pointer;
+    font-size: 39px
+}
+
+
+.arrow_right{
+	position: absolute;
+    top: 9%;
+	right: 0;
+	cursor: pointer;
+	font-size: 39px;
+	margin-right: 20%;
+}
+
+
+/*media*/
+@media (max-width: 768px) {
+    .wpss_social_share_buttons{
+		display: none;
+	}
+
+	.arrow_left, .arrow_right{
+      display: none;
+	}
+
+	
+}
+
+@media (max-width: 995px) {
+    .arrow_left{
+       top: 7%;
+	}
+
+	.arrow_right{
+		top: 7%;
+		left: 93%;
+	}
+}
+
+@media (max-width: 1411px) {
+  
+
+	.arrow_right{
+		
+		margin-left: 6%;
+	}
+}
+
+
+@media (max-width: 320px) {
+    .home-product-list-section .home-product-item{
+		max-width: 100px;
+	}
+	.home-product-list-section .home-product-item .product-name{
+		font-size: 11px;
+	}
+	.price bdi{
+		font-size: 10px;
+	}
+	.site-content ul li{
+		margin-right: 0;
+	}
+	.home-product-list-section .home-product-item{
+		padding: 0;
+	}
+}

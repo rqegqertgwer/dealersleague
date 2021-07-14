@@ -1,0 +1,510 @@
+2020-08-21T07:16:24+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /var/www/wp/wp-content/themes/shoptimizer/front-page.php on line 220
+
+2020-08-21T07:20:55+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/wp/wp-content/themes/shoptimizer/front-page.php:176
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer/front-page.php on line 176
+
+2020-08-21T07:20:59+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/wp/wp-content/themes/shoptimizer/front-page.php:176
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer/front-page.php on line 176
+
+2020-08-21T07:38:48+00:00 CRITICAL syntax error, unexpected 'get_footer' (T_STRING) in /var/www/wp/wp-content/themes/shoptimizer/view_all_author_book-page.php on line 13
+
+2020-08-21T07:43:46+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/wp/wp-content/themes/shoptimizer/front-page.php:219
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer/front-page.php on line 219
+
+2020-08-21T07:44:37+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on null in /var/www/wp/wp-content/themes/shoptimizer/front-page.php:212
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer/front-page.php on line 212
+
+2020-08-21T07:46:14+00:00 CRITICAL Uncaught Error: Class 'get_terms' not found in /var/www/wp/wp-content/themes/shoptimizer/front-page.php:220
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer/front-page.php on line 220
+
+2020-08-21T08:32:20+00:00 CRITICAL Uncaught Error: Call to undefined function shoptimizer_get_option() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:18
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 18
+
+2020-08-21T08:40:09+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 183
+
+2020-08-21T08:41:21+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 199
+
+2020-08-21T09:07:59+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_categories-page.php:31
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_categories-page.php on line 31
+
+2020-08-21T09:33:07+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 189
+
+2020-08-21T09:33:29+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 189
+
+2020-08-21T09:33:29+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 189
+
+2020-08-21T09:33:31+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 189
+
+2020-08-21T09:33:34+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 189
+
+2020-08-21T09:33:42+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 186
+
+2020-08-21T09:33:44+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 186
+
+2020-08-21T09:34:19+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 193
+
+2020-08-21T09:34:25+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 193
+
+2020-08-21T11:22:35+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php:41
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php on line 41
+
+2020-08-21T11:23:20+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php:41
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php on line 41
+
+2020-08-21T11:23:23+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php:41
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php on line 41
+
+2020-08-21T11:23:39+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php:41
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php on line 41
+
+2020-08-21T11:25:16+00:00 CRITICAL syntax error, unexpected end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/view_all_author_elements-page.php on line 53
+
+2020-08-21T11:27:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:327
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 327
+
+2020-08-21T11:27:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:327
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 327
+
+2020-08-21T11:28:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:209
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 209
+
+2020-08-21T11:28:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:209
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 209
+
+2020-08-21T11:41:07+00:00 CRITICAL syntax error, unexpected end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 343
+
+2020-08-21T13:29:25+00:00 CRITICAL syntax error, unexpected ')', expecting end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 203
+
+2020-08-21T13:30:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:200
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 200
+
+2020-08-21T13:30:36+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:200
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 200
+
+2020-08-21T13:30:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:200
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 200
+
+2020-08-21T13:30:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:200
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 200
+
+2020-08-21T13:31:28+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:200
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 200
+
+2020-08-21T13:31:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:200
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 200
+
+2020-08-21T13:32:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:200
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 200
+
+2020-08-21T13:32:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:200
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 200
+
+2020-08-21T13:36:43+00:00 CRITICAL syntax error, unexpected end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 360
+
+2020-08-21T13:41:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_woocommerce_term_meta(), 1 passed in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 206 and at least 2 expected in /var/www/wp/wp-content/plugins/woocommerce/includes/wc-deprecated-functions.php:1122
+Stack trace:
+#0 /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php(206): get_woocommerce_term_meta(49)
+#1 /var/www/wp/wp-includes/template-loader.php(106): include('/var/www/wp/wp-...')
+#2 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#3 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#4 {main}
+  thrown in /var/www/wp/wp-content/plugins/woocommerce/includes/wc-deprecated-functions.php on line 1122
+
+2020-08-21T13:41:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_woocommerce_term_meta(), 1 passed in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 206 and at least 2 expected in /var/www/wp/wp-content/plugins/woocommerce/includes/wc-deprecated-functions.php:1122
+Stack trace:
+#0 /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php(206): get_woocommerce_term_meta(49)
+#1 /var/www/wp/wp-includes/template-loader.php(106): include('/var/www/wp/wp-...')
+#2 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#3 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#4 {main}
+  thrown in /var/www/wp/wp-content/plugins/woocommerce/includes/wc-deprecated-functions.php on line 1122
+
+2020-08-21T13:48:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:213
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 213
+
+2020-08-21T13:48:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:213
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 213
+
+2020-08-21T13:48:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:213
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 213
+
+2020-08-21T13:48:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:213
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 213
+
+2020-08-21T13:49:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:213
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 213
+
+2020-08-21T13:49:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:213
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 213
+
+2020-08-21T13:49:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:214
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 214
+
+2020-08-21T13:49:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:214
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 214
+
+2020-08-21T13:49:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:214
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 214
+
+2020-08-21T13:49:42+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:214
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 214
+
+2020-08-21T13:50:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:202
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 202
+
+2020-08-21T13:50:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:202
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 202
+
+2020-08-21T13:51:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:202
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 202
+
+2020-08-21T13:51:19+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:202
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 202
+
+2020-08-21T13:51:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:202
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 202
+
+2020-08-21T13:51:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:202
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 202
+
+2020-08-21T13:54:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_option(), 0 passed in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 204 and at least 1 expected in /var/www/wp/wp-includes/option.php:30
+Stack trace:
+#0 /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php(204): get_option()
+#1 /var/www/wp/wp-includes/template-loader.php(106): include('/var/www/wp/wp-...')
+#2 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#3 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#4 {main}
+  thrown in /var/www/wp/wp-includes/option.php on line 30
+
+2020-08-21T13:54:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_option(), 0 passed in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 204 and at least 1 expected in /var/www/wp/wp-includes/option.php:30
+Stack trace:
+#0 /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php(204): get_option()
+#1 /var/www/wp/wp-includes/template-loader.php(106): include('/var/www/wp/wp-...')
+#2 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#3 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#4 {main}
+  thrown in /var/www/wp/wp-includes/option.php on line 30
+
+2020-08-21T14:12:40+00:00 CRITICAL syntax error, unexpected '}' in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 234
+
+2020-08-21T14:12:41+00:00 CRITICAL syntax error, unexpected '}' in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 234
+
+2020-08-21T14:15:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_get_attachment_image(), 0 passed in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 216 and at least 1 expected in /var/www/wp/wp-includes/media.php:1023
+Stack trace:
+#0 /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php(216): wp_get_attachment_image()
+#1 /var/www/wp/wp-includes/template-loader.php(106): include('/var/www/wp/wp-...')
+#2 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#3 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#4 {main}
+  thrown in /var/www/wp/wp-includes/media.php on line 1023
+
+2020-08-21T14:15:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_get_attachment_image(), 0 passed in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 216 and at least 1 expected in /var/www/wp/wp-includes/media.php:1023
+Stack trace:
+#0 /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php(216): wp_get_attachment_image()
+#1 /var/www/wp/wp-includes/template-loader.php(106): include('/var/www/wp/wp-...')
+#2 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#3 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#4 {main}
+  thrown in /var/www/wp/wp-includes/media.php on line 1023
+
+2020-08-21T14:15:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_get_attachment_image(), 0 passed in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 216 and at least 1 expected in /var/www/wp/wp-includes/media.php:1023
+Stack trace:
+#0 /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php(216): wp_get_attachment_image()
+#1 /var/www/wp/wp-includes/template-loader.php(106): include('/var/www/wp/wp-...')
+#2 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#3 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#4 {main}
+  thrown in /var/www/wp/wp-includes/media.php on line 1023
+
+2020-08-21T14:15:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wp_get_attachment_image(), 0 passed in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 216 and at least 1 expected in /var/www/wp/wp-includes/media.php:1023
+Stack trace:
+#0 /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php(216): wp_get_attachment_image()
+#1 /var/www/wp/wp-includes/template-loader.php(106): include('/var/www/wp/wp-...')
+#2 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#3 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#4 {main}
+  thrown in /var/www/wp/wp-includes/media.php on line 1023
+
+2020-08-21T14:38:48+00:00 CRITICAL syntax error, unexpected end of file in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 360
+
+2020-08-21T14:42:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:213
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 213
+
+2020-08-21T14:42:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:213
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 213
+
+2020-08-21T14:42:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:213
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 213
+
+2020-08-21T14:42:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:213
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 213
+
+2020-08-21T14:47:28+00:00 CRITICAL syntax error, unexpected '}' in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 221
+
+2020-08-21T14:47:38+00:00 CRITICAL syntax error, unexpected '}' in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 221
+
+2020-08-21T14:47:40+00:00 CRITICAL syntax error, unexpected '}' in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 221
+
+2020-08-21T14:48:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:217
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 217
+
+2020-08-21T14:48:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:217
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 217
+
+2020-08-21T14:48:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:217
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 217
+
+2020-08-21T14:48:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:217
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 217
+
+2020-08-21T14:48:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:221
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 221
+
+2020-08-21T14:48:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_wp_term_image() in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php:221
+Stack trace:
+#0 /var/www/wp/wp-includes/template-loader.php(106): include()
+#1 /var/www/wp/wp-blog-header.php(19): require_once('/var/www/wp/wp-...')
+#2 /var/www/wp/index.php(17): require('/var/www/wp/wp-...')
+#3 {main}
+  thrown in /var/www/wp/wp-content/themes/shoptimizer-child-theme/front-page.php on line 221
+
